@@ -105,6 +105,3 @@ cd sapiens-platform
 
 Este proyecto está bajo la Licencia MIT.
 
-```
-
-Este `README.md` proporciona una descripción general clara y detallada del proyecto, incluyendo instrucciones de instalación, configuración y detalles específicos de las funcionalidades y estructura del proyecto.
