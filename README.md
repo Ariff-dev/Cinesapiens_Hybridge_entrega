@@ -19,7 +19,7 @@ Sapiens Platform es una aplicación web diseñada para permitir a los usuarios i
 - Node.js y npm
 - Docker (opcional para despliegue en servidor)
 
-### Clonar el repositorios
+### Clonar los repositorios
 ```bash
 
 backend: 
