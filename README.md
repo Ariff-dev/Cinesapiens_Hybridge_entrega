@@ -21,8 +21,16 @@ Sapiens Platform es una aplicación web diseñada para permitir a los usuarios i
 
 ### Clonar el repositorio
 ```bash
-git clone https://github.com/usuario/sapiens-platform.git
-cd sapiens-platform
+
+backend: 
+git clone https://github.com/Ariff-dev/Cinesapiens_Hybridge_backend
+cd Cinesapiens_Hybridge_backend
+
+frontend:
+git clone https://github.com/Ariff-dev/Cinesapiens_Hybridge_frontend
+
+cd Cinesapiens_Hybridge_frontend
+
 ```
 
 ### Backend (Flask)
